@@ -9,8 +9,8 @@ namespace constants
 	const int fieldwidth = 10; //width in blocks
 	const int sizeofpixelcube = 15; //size of tetromino block in pixels
 	const int coordsize = 2;
-	const std::string texturepath = "texturetetris.png";
-	const std::string backgroundpath = "Backtext.png";
+	const std::string texturepath = "texturetetris.jpeg";
+	const std::string backgroundpath = "Backtext.jpeg";
 }
 
 int field[constants::fieldhigh][constants::fieldwidth] = { 0 };
